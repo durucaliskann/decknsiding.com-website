@@ -1,6 +1,6 @@
 # decknsiding.com-website
 # Premium E-Commerce &amp; Lead Generation Platform for Thermally Modified Wood
-# Premium E-Commerce & Lead Generation Platform for Thermally Modified Wood
+
 
 ## 📌 Project Overview
 This repository showcases the strategic development, UI/UX architecture, and technical implementation of **decknsiding.com**, a premium digital platform customized for the North American luxury construction and design industry. The platform is engineered to display high-end wood products and capture high-value leads from custom builders, architects, and luxury homeowners.
