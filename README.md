@@ -35,6 +35,10 @@ Operating in the North American luxury architectural market required strict alig
 * **The Solution:** The user interface was restructured to guide the user naturally toward technical specifications. The AI was utilized to write optimized validation workflows and conditional form logic, resulting in a seamless, high-converting lead generation pipeline.
 
 ---
+<img width="1857" height="949" alt="image" src="https://github.com/user-attachments/assets/43c51864-8a58-4c36-b08d-30038c403363" />
+<img width="1859" height="940" alt="image" src="https://github.com/user-attachments/assets/eeecb9cc-6090-4b30-b73d-3438e45bf39c" />
+
+
 
 ## 👥 Commercial Team
 * **Lead Developer / AI System Integrator:** Duru ÇALIŞKAN
