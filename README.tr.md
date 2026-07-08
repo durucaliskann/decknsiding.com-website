@@ -33,6 +33,10 @@ Kuzey Amerika lüks mimari pazarında faaliyet göstermek, teknik doğruluk ile 
 * **Çözüm:** Kullanıcı arayüzü, kullanıcıyı doğrudan teknik verilere yönlendirecek şekilde yeniden yapılandırılmıştır. Yapay zeka yardımıyla form girdi doğrulamaları (validation) ve koşullu form mantığı (conditional logic) optimize edilmiş, böylece dönüşüm oranı yüksek, akıcı bir müşteri yakalama algoritması entegre edilmiştir.
 
 ---
+<img width="1853" height="933" alt="image" src="https://github.com/user-attachments/assets/0e50ba82-8597-40cf-b0ab-6e5764c6e1f2" />
+<img width="1848" height="937" alt="image" src="https://github.com/user-attachments/assets/5a3268f3-ebf5-4e36-830f-c76d1a037c73" />
+
+
 
 ## 👥 Ticari Ekip
 * **Ana Geliştirici :** Duru ÇALIŞKAN
